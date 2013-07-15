@@ -1,9 +1,10 @@
 //
 //  ADRS.h
 //
-//  Created by Nigel Redmon on 12/18/12.
+//  Originally Created by Nigel Redmon on 12/18/12.
 //  EarLevel Engineering: earlevel.com
 //  Copyright 2012 Nigel Redmon
+//  C Port by Francesco D'Este
 //
 //  For a complete explanation of the ADSR envelope generator and code,
 //  read the series of articles by the author, starting here:
